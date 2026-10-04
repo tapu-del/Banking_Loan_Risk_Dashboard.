@@ -22,4 +22,4 @@ Built an interactive Power BI dashboard to analyze loan risk data for 594K loans
 - Average Credit Score: 680.92
 
 ## Screenshot
-![Dashboard](banking_dashboard.png)
+<img width="930" height="534" alt="image" src="https://github.com/user-attachments/assets/449fe72e-0cfa-4088-9830-6a6e8f814b0f" />
